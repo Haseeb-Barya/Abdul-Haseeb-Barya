@@ -1,11 +1,3 @@
-<!-- 🖼️ Banner (You can design and upload a banner.png in this repo, then replace the link below) -->
-![Header](https://raw.githubusercontent.com/Haseeb-Barya/Haseeb-Barya/main/banner.png)
-
-<!-- 👋 Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&width=600&lines=👋+Hi,+I'm+Abdul+Haseeb;🎓+BS+Artificial+Intelligence+Student;🤖+Aspiring+Machine+Learning+Engineer;Passionate+about+AI,+ML,+DL+%26+NLP)](https://git.io/typing-svg)
-
----
-
 # 👋 Hi, I'm Abdul Haseeb  
 🎓 BS Artificial Intelligence Student | 🤖 Aspiring Machine Learning Engineer  
 Passionate about building AI/ML models to solve real-world problems and exploring deep learning, computer vision, and NLP.  
